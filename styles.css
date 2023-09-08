@@ -1,0 +1,26 @@
+*{
+    background-color: #2c5545;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin:0;
+}
+
+input{
+    border-radius: 14px;
+    text-align: center;
+    background-color: gray;
+    margin-bottom: 20px;
+    
+}
+input::placeholder{
+    color: black;
+}
+
+#boton{
+    background-color: gray;
+}
